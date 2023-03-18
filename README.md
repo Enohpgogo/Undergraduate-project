@@ -42,6 +42,7 @@
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image059.png)
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image061.png)
 
-###　References
+### References
 
 [Music Signal Processing DSP Lecture 9 Music synthesis techniques](https://web.eecs.umich.edu/~fessler/course/100/l/l09-synth.pdf)
+[Musical Analysis and Synthesis in Matlab](https://amath.colorado.edu/pub/matlab/music/)
