@@ -6,10 +6,12 @@
 ###### Author: Chen-Yang Ma, Yu-Hsiang Tseng
 ###### Communication and Signal Processing Laboratory, Department of Electrical Engineering, National Taiwan Ocean University,202 Keelung
 
-### Background Knowlodge Introduction
+### Background knowlodge introduction
 
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image003.jpg)
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image005.jpg)
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image007.jpg)
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image009.jpg)
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image011.jpg)
+
+### Research methods and steps
