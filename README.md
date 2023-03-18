@@ -5,7 +5,6 @@
 ##### Advisor: Ching-Hsiang Tseng
 ##### Author: Chen-Yang Ma, Yu-Hsiang Tseng
 ##### Communication and Signal Processing Laboratory, Department of Electrical Engineering, National Taiwan Ocean University,202 Keelung
-
 1. Background Knowlodge Introduction
 
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image003.jpg)
