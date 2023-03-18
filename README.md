@@ -12,3 +12,5 @@
 
 ### Achievements
 1. Matlab code [piano_A4](https://github.com/Enohpgogo/university-project/blob/main/piano-synthesis/piano_A4.m)
+
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/piano_A4.jpg)
