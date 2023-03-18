@@ -14,3 +14,7 @@
 1. Matlab code [piano_A4](https://github.com/Enohpgogo/university-project/blob/main/piano-synthesis/piano_A4.m)
 
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/piano_A4.jpg)
+
+2. Matlab code [piano_A4_analysis](https://github.com/Enohpgogo/university-project/blob/main/piano-synthesis/piano_A4_analysis.m)
+
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/piano_A4_analysis.jpg)
