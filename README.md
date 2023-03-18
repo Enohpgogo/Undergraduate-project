@@ -7,5 +7,5 @@
   Communication and Signal Processing Laboratory, Department of Electrical Engineering, National Taiwan Ocean University,202 Keelung
 \end{center}
 
-Background Knowlodge Introduction
+1. Background Knowlodge Introduction
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image003.jpg)
