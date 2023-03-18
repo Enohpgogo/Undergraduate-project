@@ -9,3 +9,9 @@
 1. Background Knowlodge Introduction
 
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image003.jpg)
+
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image005.jpg)
+
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image007.jpg)
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image009.jpg)
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/image011.jpg)
