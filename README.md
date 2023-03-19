@@ -1,4 +1,4 @@
-# university-project
+# University-project
 
 ## Sound Generator for Simulating the Timbre of Musical Instruments Using MATLAB Program 利用MATLAB程式模擬樂器音色之聲音產生器
 
@@ -18,3 +18,4 @@
 2. Matlab code [piano_A4_analysis](https://github.com/Enohpgogo/university-project/blob/main/piano-synthesis/piano_A4_analysis.m)
 
 ![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/piano_A4_analysis.jpg)
+
