@@ -1,10 +1,10 @@
-# university-project
+# Undergraduate-project
 
-## Sound Generator for Simulating the Timbre of Musical Instruments Using MATLAB Program 利用MATLAB程式模擬樂器音色之聲音產生器
+## Sound Generator for Simulating the Timbre of Musical Instruments Using MATLAB Program (利用MATLAB程式模擬樂器音色之聲音產生器)
 
 ###### Advisor: Ching-Hsiang Tseng
 ###### Author: Chen-Yang Ma, Yu-Hsiang Tseng
-###### Communication and Signal Processing Laboratory, Department of Electrical Engineering, National Taiwan Ocean University,202 Keelung
+###### Communication and Signal Processing Laboratory, Department of Electrical Engineering, National Taiwan Ocean University, 202 Keelung
 
 ### Introduction
 
@@ -12,3 +12,10 @@
 
 ### Achievements
 1. Matlab code [piano_A4](https://github.com/Enohpgogo/university-project/blob/main/piano-synthesis/piano_A4.m)
+
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/piano_A4.jpg)
+
+2. Matlab code [piano_A4_analysis](https://github.com/Enohpgogo/university-project/blob/main/piano-synthesis/piano_A4_analysis.m)
+
+![image](https://github.com/Enohpgogo/university-project/blob/main/IMG/piano_A4_analysis.jpg)
+
