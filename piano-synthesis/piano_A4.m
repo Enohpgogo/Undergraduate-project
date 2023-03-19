@@ -161,3 +161,4 @@ for p=1:length(num)
 			sound(w46,num(2,p).*Sp(num(1,p))); pause(num(3,p).*tt);
     end
 end
+
